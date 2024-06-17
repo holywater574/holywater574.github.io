@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WatermelonGame-1.0";
 const contentToCache = [
-    "Build/Demo3.loader.js",
-    "Build/Demo3.framework.js.br",
-    "Build/Demo3.data.br",
-    "Build/Demo3.wasm.br",
+    "Build/Demo4.loader.js",
+    "Build/Demo4.framework.js.unityweb",
+    "Build/Demo4.data.unityweb",
+    "Build/Demo4.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
